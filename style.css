@@ -1,0 +1,67 @@
+.dima{
+    transition: ease 1s;
+}
+.dima:hover{
+    transform: translateX(450px);
+}
+.head{
+    width: 125px;
+    margin: 0 0 0 141px;
+    height: 125px;
+    border-radius: 50%;
+    background-color: orangered;
+}
+.left{
+    width: 125px;
+    margin: 0 0 125px 0;
+    height: 40px;
+    background-color: skyblue;
+    border-radius: 20px 0 0 20px;
+    display: inline-block;
+}
+.body{
+    width: 150px;
+    height: 200px;
+    background-color: black;
+    border-radius: 20px;
+    display: inline-block;
+}
+.right{
+    width: 125px;
+    margin: 0 0 125px 0;
+    height: 40px;
+    background-color: greenyellow;
+    border-radius: 0 20px 20px 0;
+    display: inline-block;   
+}
+.foot-left{
+    width: 40px;
+    height: 125px;
+    background-color: skyblue;
+    display: inline-block;
+}
+.foot-right{
+    width: 40px;
+    height: 125px;
+    background-color: greenyellow;
+    display: inline-block;
+    margin: 0 0 0 65px;
+}
+.boots-left{
+    width: 40px;
+    height: 40px;
+    background-color: palevioletred;
+    display: inline-block;
+
+}
+.boots-right{
+    width: 40px;
+    height: 40px;
+    background-color: palevioletred;
+    display: inline-block;
+    margin: 0 0 0 65px;
+}
+.footer{
+    margin: 0 0 0 130px;
+    
+}
